@@ -1,4 +1,4 @@
-# Deep-Learning :tw-1f300:
+# Deep-Learning 
 
 This repository is developed to upload Deep Learning projects with Python using Scikit-Learn, Keras, TensorFlow y PyTorch.
 ### Table of content :
